@@ -3,3 +3,7 @@
 Read papers on machine learning
 Planned project
 Processed raw_data
+
+23 Feb 18
+
+Journal club, papers for presentation and data processing
