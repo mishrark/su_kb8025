@@ -7,3 +7,7 @@ Processed raw_data
 23 Feb 18
 
 Journal club, papers for presentation and data processing
+
+26th feb 18
+
+Input vector for sklearn
