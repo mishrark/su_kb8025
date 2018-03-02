@@ -11,3 +11,7 @@ Journal club, papers for presentation and data processing
 26th feb 18
 
 Input vector for sklearn
+
+2nd March
+
+Assignment pushed.
